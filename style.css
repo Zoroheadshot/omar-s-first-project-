@@ -1,0 +1,42 @@
+.item{
+padding:10px;
+border-left: 1px solid rgba(137,130,147,.2);}
+.conex{
+padding:30px;
+margin:30px;
+background-color:rgb(238,251,255);
+border-radius:20px;
+}
+.con{
+padding-left:5%;
+display:inline-block;
+}
+.bot{
+text-decoration:none;
+color:white;
+background-color:#8845f4;
+border-radius:20px;
+padding:13px 15px 13px 15px;
+}
+.hol{
+width:50%;
+padding-left:25%;
+}
+.hal{
+width:50%;
+float:left;
+}
+body{
+color:gray;
+font-family:sans-serif;
+line-height:50px;}
+h1{
+color:white;
+background-color:steelblue;
+border : 5px double green;
+border-radius:20px;
+padding:10px;
+}
+.nom{
+color:red;
+}
